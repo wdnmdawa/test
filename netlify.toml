@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "http://反代域名:反代端口/:splat"
+  to = "https://rollingfunny.dpdns.org/:splat"
   status = 200
   force = true
