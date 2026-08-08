@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://youtube.com/:splat"
+  to = "https://null/:splat"
   status = 200
   force = true
