@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "http://反代域名:反代端口/:splat"
+  status = 200
+  force = true
